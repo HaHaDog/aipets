@@ -1,4 +1,4 @@
-#  E-commer-Astro
+# AIPets（AI宠物圈）
 
 E-commerce template built with **Astro 5**, **React 19**, and **Tailwind CSS 4**. Designed for speed, SEO, and specific aesthetic appeal, featuring a fully functional shopping cart, favorites system, blog, and more.
 
